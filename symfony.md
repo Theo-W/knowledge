@@ -35,6 +35,10 @@ Aller dans les parramettre de L'IDE pour activer la fonction et l'envoye automat
 
 `sudo install yarn`
 
+- Installer Webpack
+
+`yarn add copy-xebpack-plugin`
+
 
 # Build
 
