@@ -1,6 +1,10 @@
 # Symfony
 ## [Symfony demo](https://github.com/theomeunier/demo-symfony)
 
+## Faire les mise à jours
+
+`composer update`     
+
 
 # Installer les dépendances
 
@@ -23,3 +27,19 @@
 `sudo apt install -g sass`    
 
 Aller dans les parramettre de L'IDE pour activer la fonction et l'envoye automatique
+
+
+# Yarn
+
+- Installer Yarn
+
+`sudo install yarn`
+
+
+# Build
+
+- Installer Build
+
+`sudo get install build`
+
+(voir la commande car je ne suis pas sur)
