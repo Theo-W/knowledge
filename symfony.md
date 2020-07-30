@@ -62,7 +62,6 @@ composer install
 ```
 
 - faire les maj
-
 ```
 composer update
 ```
@@ -78,11 +77,7 @@ sudo apt install nodejs
 
 Dans le dossier Webpack enleve le commantaire `.enableSassLoader()`.
 
-Ajouter le
-```
-import '../scss/app.scss';
-```
- dans le `asset/js/app.js` pour donner le
+Ajouter le `import '../scss/app.scss';` dans le `asset/js/app.js` pour donner le
 chemain du fichier.
 
 
