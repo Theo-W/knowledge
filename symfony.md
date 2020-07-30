@@ -47,10 +47,24 @@ yarn add bootstarp
 yarn add jquery
 ```
 
+### Bootstarp
+
 - Installer popper
 
 ```
 yarn add --dev popper.js
+```
+
+ajouter dans le template puis dans la rubrique ` {% block stylesheets %}`
+
+```
+ {{ encore_entry_link_tags('app') }}
+```
+
+ Puis dans la rubrique `{% block javascripts %}`      
+
+ ```
+   {{ encore_entry_link_tags('app') }}
 ```
 
 ### composer
