@@ -1,12 +1,6 @@
 # Symfony
 ## [Symfony demo](https://github.com/theomeunier/demo-symfony)
 
-## Faire les mise à jours
-
-```
-composer update
-```    
-
 
 # Installer les dépendances
 
@@ -15,12 +9,6 @@ composer update
 ```
 sudo apt update && sudo apt install yarn
 ```   
-
-- Installer Yarn
-
-```
-sudo install yarn
-```
 
 - Installer Webpack
 
@@ -36,7 +24,7 @@ yarn add copy-webpack-plugin --dev
 - Intaller Bootstarp
 
 ```
-yarn add bootstarp
+yarn add bootstrap
 ```
 
 ### Jquery
