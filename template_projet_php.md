@@ -1,6 +1,11 @@
 # Template php
 ## [Template projet php](https://github.com/theomeunier/template_projet_php)
 
+Pour bien commencer il faut crée un dossier "logs" a la racine du projet et
+un dossier dans le dossier logs "/logs/ngnix"
+
+Pour plus de sécurité crée un dossier public a la racine et faire son code dedans
+
 
 Ce template ne posède pas de passe de donnée
 
