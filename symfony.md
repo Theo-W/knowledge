@@ -21,10 +21,13 @@ yarn add copy-webpack-plugin
 yarn add copy-webpack-plugin --dev
 ```   
 
-- Intaller Bootstarp
+Si yarn donner une mauvaise version supprimer tout les dossiers
+"sudo rm /usr/bin/yarn" / "sudo rm /usr/bin/yarnpkg"
+
+Puis faire la commande :
 
 ```
-yarn add bootstrap
+sudo npm uninstall -g yarn && sudo npm install --global yarn@1.22.4
 ```
 
 ### Jquery
@@ -36,6 +39,13 @@ yarn add jquery
 ```
 
 ### Bootstarp
+
+- Intaller Bootstarp
+
+```
+yarn add bootstrap
+```
+
 
 - Installer popper
 
@@ -116,3 +126,17 @@ ET
 globals:
      path_image: '%path_directory_image%'
 ```
+
+
+## Problème
+
+### Docker
+
+Si le serveur nous domme une errors de logs faire la commande suivant à la racine du projet
+
+```
+ls -al
+```
+
+Puis crée a nouvrau le dossier "logs" à la racine du projet, puis dans le
+dossier crée un fichier "nginx" puis relancer la commande, et faire F5
