@@ -96,7 +96,7 @@ Ajouter dans le template `base.html.twig`, dans le block ` {% block stylesheets 
 ```
 
 
-# Build
+## Build
 
 - Environement dev
 ```
