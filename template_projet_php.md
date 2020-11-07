@@ -1,5 +1,6 @@
 # Template php
-## [Template projet php](https://github.com/theomeunier/template_projet_php)
+## [Template projet php-fdm/ngnix](https://github.com/theomeunier/template_projet_php)
+## [Template projet web/ngnix](https://github.com/theomeunier/template_projet_php)
 
 Pour bien commencer il faut crée un dossier "logs" a la racine du projet et
 un dossier dans le dossier logs "/logs/ngnix"
