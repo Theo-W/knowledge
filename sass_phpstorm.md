@@ -1,18 +1,12 @@
-### Utiliser sass avec phpstrom
-
-## Prérequis
-
-- avoir nodejs d'installer sur le pc
-- avec le plugin `File watchers plugin`
-
+# Use SASS with PHPStorm
 
 ## Installer sass
 
-```
-npm install -g sass
-```
+- install plugin then PHPStorm `File watchers plugin`
+- install npm or yarn on project `npm install` or `yarn install` 
+- install sass on project `npm install -g sass`
 
 ##Fonctionnement
 
-- ajouter SCSS dans le File watchers (Tools/File watchers)
+- add SCSS in File watchers (Tools/File watchers)
 - Comment avec un `CTRL+S` pour avoir le dossier compiler
