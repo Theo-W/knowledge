@@ -8,5 +8,4 @@ Importer boostrap dans le main.jsx
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
 ```
-
 puis relancer le serveur de react
