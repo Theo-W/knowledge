@@ -1,11 +1,11 @@
-# Bootstrap avec react
+# Bootstrap with react
  
-- installer bootstrap `npm install bootstrap --save`
-- installer pooperjs `npm i @popperjs/core`
+- install bootstrap `npm install bootstrap --save`
+- install pooperjs `npm i @popperjs/core`
 
-Importer boostrap dans le main.jsx
+import boostrap in le main.jsx
 ```shell
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
 ```
-puis relancer le serveur de react
+restart server react
