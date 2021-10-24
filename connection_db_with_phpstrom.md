@@ -1,9 +1,9 @@
 # Connection db with Phpstrom or Datagrid
 
-## 1 - Trouve le l'ip du reseau interne de docker 
+## 1 - Find the ip of the internal docker network
 
-## 2 - Aller dans l'ongler databese du l'ogiciel 
+## 2 - Go to the databasis tab of the software
 
 [![docker_policy](./img/config_database_phpstrom.png)](https://raw.githubusercontent.com/theomeunier/dotfile/master/img/config_database_phpstrom.png)
 
-## 3 - Tester la connexion et c'est parti pour deb
+## 3 - Test the connection and let's go for dev
