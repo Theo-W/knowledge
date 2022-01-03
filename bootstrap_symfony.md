@@ -6,6 +6,7 @@
 - install sass-loader `npm install sass-loader sass webpack --save-dev`
 
 - Rename style.css through style.scss
+- import bootstrap in style.scss `@import "~bootstrap/scss/bootstrap";`
 - Activate option sass in `webpack.config.js` => `.enableSassLoader()
 - import boostrap in `assets/app.js`
 ```js
